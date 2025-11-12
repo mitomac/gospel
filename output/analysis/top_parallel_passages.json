@@ -1,0 +1,668 @@
+{
+  "Matthew_vs_Mark": [
+    {
+      "similarity": 1.0000001192092896,
+      "verse_a": {
+        "ref": "Matthew 26:30",
+        "text": "When they had sung a hymn, they went out to the Mount of Olives."
+      },
+      "verse_b": {
+        "ref": "Mark 14:26",
+        "text": "When they had sung a hymn, they went out to the Mount of Olives."
+      }
+    },
+    {
+      "similarity": 0.9999999403953552,
+      "verse_a": {
+        "ref": "Matthew 10:21",
+        "text": "“Brother will deliver up brother to death, and the father his child. Children will rise up against parents, and cause them to be put to death."
+      },
+      "verse_b": {
+        "ref": "Mark 13:12",
+        "text": "“Brother will deliver up brother to death, and the father his child. Children will rise up against parents, and cause them to be put to death."
+      }
+    },
+    {
+      "similarity": 0.9999997615814209,
+      "verse_a": {
+        "ref": "Matthew 24:35",
+        "text": "Heaven and earth will pass away, but my words will not pass away."
+      },
+      "verse_b": {
+        "ref": "Mark 13:31",
+        "text": "Heaven and earth will pass away, but my words will not pass away."
+      }
+    },
+    {
+      "similarity": 0.998435378074646,
+      "verse_a": {
+        "ref": "Matthew 26:32",
+        "text": "But after I am raised up, I will go before you into Galilee.”"
+      },
+      "verse_b": {
+        "ref": "Mark 14:28",
+        "text": "However, after I am raised up, I will go before you into Galilee.”"
+      }
+    },
+    {
+      "similarity": 0.9981779456138611,
+      "verse_a": {
+        "ref": "Matthew 26:41",
+        "text": "Watch and pray, that you don’t enter into temptation. The spirit indeed is willing, but the flesh is weak.”"
+      },
+      "verse_b": {
+        "ref": "Mark 14:38",
+        "text": "Watch and pray, that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak.”"
+      }
+    },
+    {
+      "similarity": 0.9970561265945435,
+      "verse_a": {
+        "ref": "Matthew 26:24",
+        "text": "The Son of Man goes, even as it is written of him, but woe to that man through whom the Son of Man is betrayed! It would be better for that man if he had not been born.”"
+      },
+      "verse_b": {
+        "ref": "Mark 14:21",
+        "text": "For the Son of Man goes, even as it is written about him, but woe to that man by whom the Son of Man is betrayed! It would be better for that man if he had not been born.”"
+      }
+    },
+    {
+      "similarity": 0.9968361854553223,
+      "verse_a": {
+        "ref": "Matthew 26:31",
+        "text": "Then Jesus said to them,\n“All of you will be made to stumble because of me tonight, for it is written, ‘I will strike the shepherd, and the sheep of the flock will be scattered.’"
+      },
+      "verse_b": {
+        "ref": "Mark 14:27",
+        "text": "Jesus said to them,\n“All of you will be made to stumble because of me tonight, for it is written, ‘I will strike the shepherd, and the sheep will be scattered.’"
+      }
+    },
+    {
+      "similarity": 0.9960141181945801,
+      "verse_a": {
+        "ref": "Matthew 20:26",
+        "text": "It shall not be so among you, but whoever desires to become great among you shall be\nyour servant."
+      },
+      "verse_b": {
+        "ref": "Mark 10:43",
+        "text": "But it shall not be so among you, but whoever wants to become great among you shall be your servant."
+      }
+    },
+    {
+      "similarity": 0.9955025315284729,
+      "verse_a": {
+        "ref": "Matthew 10:22",
+        "text": "You will be hated by all men for my name’s sake, but he who endures to the end will be saved."
+      },
+      "verse_b": {
+        "ref": "Mark 13:13",
+        "text": "You will be hated by all men for my name’s sake, but he who endures to the end, the same will be saved."
+      }
+    },
+    {
+      "similarity": 0.9953913688659668,
+      "verse_a": {
+        "ref": "Matthew 24:24",
+        "text": "For there will arise false christs, and false prophets, and they will show great signs and wonders, so as to lead astray, if possible, even the chosen ones."
+      },
+      "verse_b": {
+        "ref": "Mark 13:22",
+        "text": "For there will arise false christs and false prophets, and will show signs and wonders, that they may lead astray, if possible, even the chosen ones."
+      }
+    },
+    {
+      "similarity": 0.994118332862854,
+      "verse_a": {
+        "ref": "Matthew 26:46",
+        "text": "Arise, let’s be going. Behold, he who betrays me is at hand.”"
+      },
+      "verse_b": {
+        "ref": "Mark 14:42",
+        "text": "Arise, let us be going. Behold, he who betrays me is at hand.”"
+      }
+    },
+    {
+      "similarity": 0.9937617778778076,
+      "verse_a": {
+        "ref": "Matthew 24:32",
+        "text": "“Now from the fig tree learn this parable. When its branch has now become tender, and produces its leaves, you know that the summer is near."
+      },
+      "verse_b": {
+        "ref": "Mark 13:28",
+        "text": "“Now from the fig tree, learn this parable. When the branch has now become tender, and produces its leaves, you know that the summer is near;"
+      }
+    },
+    {
+      "similarity": 0.9919767379760742,
+      "verse_a": {
+        "ref": "Matthew 20:28",
+        "text": "even as the Son of Man came not to be served, but to serve, and to give his life as a ransom for many.”"
+      },
+      "verse_b": {
+        "ref": "Mark 10:45",
+        "text": "For the Son of Man also came not to be served, but to serve, and to give his life as a ransom for many.”"
+      }
+    },
+    {
+      "similarity": 0.9916512966156006,
+      "verse_a": {
+        "ref": "Matthew 19:24",
+        "text": "Again I tell you, it is easier for a camel to go through a needle’s eye, than for a rich man to enter into God’s Kingdom.”"
+      },
+      "verse_b": {
+        "ref": "Mark 10:25",
+        "text": "It is easier for a camel to go through a needle’s eye than for a rich man to enter into God’s Kingdom.”"
+      }
+    },
+    {
+      "similarity": 0.9896828532218933,
+      "verse_a": {
+        "ref": "Matthew 4:20",
+        "text": "They immediately left their nets and followed him."
+      },
+      "verse_b": {
+        "ref": "Mark 1:18",
+        "text": "Immediately they left their nets, and followed him."
+      }
+    },
+    {
+      "similarity": 0.9889135360717773,
+      "verse_a": {
+        "ref": "Matthew 26:13",
+        "text": "Most certainly I tell you, wherever this Good News is preached in the whole world, what this woman has done will also be spoken of as a memorial of her.”"
+      },
+      "verse_b": {
+        "ref": "Mark 14:9",
+        "text": "Most certainly I tell you, wherever this Good News may be preached throughout the whole world, that which this woman has done will also be spoken of for a memorial of her.”"
+      }
+    },
+    {
+      "similarity": 0.9881875514984131,
+      "verse_a": {
+        "ref": "Matthew 21:27",
+        "text": "They answered Jesus, and said, “We don’t know.”\nHe also said to them,\n“Neither will I tell you by what authority I do these things."
+      },
+      "verse_b": {
+        "ref": "Mark 11:33",
+        "text": "They answered Jesus, “We don’t know.”\nJesus said to them,\n“Neither do I tell you by what authority I do these things.”"
+      }
+    },
+    {
+      "similarity": 0.987525224685669,
+      "verse_a": {
+        "ref": "Matthew 19:3",
+        "text": "Pharisees came to him, testing him, and saying, “Is it lawful for a man to divorce his wife for any reason?”"
+      },
+      "verse_b": {
+        "ref": "Mark 10:2",
+        "text": "Pharisees came to him testing him, and asked him, “Is it lawful for a man to divorce his wife?”"
+      }
+    },
+    {
+      "similarity": 0.9874600172042847,
+      "verse_a": {
+        "ref": "Matthew 27:45",
+        "text": "Now from the sixth hour there was darkness over all the land until the ninth hour."
+      },
+      "verse_b": {
+        "ref": "Mark 15:33",
+        "text": "When the sixth hour\n had come, there was darkness over the whole land until the ninth hour."
+      }
+    },
+    {
+      "similarity": 0.987127959728241,
+      "verse_a": {
+        "ref": "Matthew 26:38",
+        "text": "Then he said to them,\n“My soul is exceedingly sorrowful, even to death. Stay here, and watch with me.”"
+      },
+      "verse_b": {
+        "ref": "Mark 14:34",
+        "text": "He said to them,\n“My soul is exceedingly sorrowful, even to death. Stay here, and watch.”"
+      }
+    }
+  ],
+  "Matthew_vs_Luke": [
+    {
+      "similarity": 0.9999997615814209,
+      "verse_a": {
+        "ref": "Matthew 11:6",
+        "text": "Blessed is he who finds no occasion for stumbling in me.”"
+      },
+      "verse_b": {
+        "ref": "Luke 7:23",
+        "text": "Blessed is he who finds no occasion for stumbling in me.”"
+      }
+    },
+    {
+      "similarity": 0.9999997019767761,
+      "verse_a": {
+        "ref": "Matthew 7:8",
+        "text": "For everyone who asks receives. He who seeks finds. To him who knocks it will be opened."
+      },
+      "verse_b": {
+        "ref": "Luke 11:10",
+        "text": "For everyone who asks receives. He who seeks finds. To him who knocks it will be opened."
+      }
+    },
+    {
+      "similarity": 0.9986623525619507,
+      "verse_a": {
+        "ref": "Matthew 6:21",
+        "text": "for where your treasure is, there your heart will be also."
+      },
+      "verse_b": {
+        "ref": "Luke 12:34",
+        "text": "For where your treasure is, there will your heart be also."
+      }
+    },
+    {
+      "similarity": 0.9963896870613098,
+      "verse_a": {
+        "ref": "Matthew 12:41",
+        "text": "The men of Nineveh will stand up in the judgment with this generation, and will condemn it, for they repented at the preaching of Jonah; and behold, someone greater than Jonah is here."
+      },
+      "verse_b": {
+        "ref": "Luke 11:32",
+        "text": "The men of Nineveh will stand up in the judgment with this generation, and will condemn it: for they repented at the preaching of Jonah, and behold, one greater than Jonah is here."
+      }
+    },
+    {
+      "similarity": 0.9950111508369446,
+      "verse_a": {
+        "ref": "Matthew 11:21",
+        "text": "“Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works had been done in Tyre and Sidon which were done in you, they would have repented long ago in sackcloth and ashes."
+      },
+      "verse_b": {
+        "ref": "Luke 10:13",
+        "text": "“Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works had been done in Tyre and Sidon which were done in you, they would have repented long ago, sitting in sackcloth and ashes."
+      }
+    },
+    {
+      "similarity": 0.9937233924865723,
+      "verse_a": {
+        "ref": "Matthew 11:10",
+        "text": "For this is he, of whom it is written, ‘Behold, I send my messenger before your face, who will prepare your way before you.’"
+      },
+      "verse_b": {
+        "ref": "Luke 7:27",
+        "text": "This is he of whom it is written,\n‘Behold, I send my messenger before your face,\nwho will prepare your way before you.’"
+      }
+    },
+    {
+      "similarity": 0.993026614189148,
+      "verse_a": {
+        "ref": "Matthew 8:20",
+        "text": "Jesus said to him,\n“The foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head.”"
+      },
+      "verse_b": {
+        "ref": "Luke 9:58",
+        "text": "Jesus said to him,\n“The foxes have holes, and the birds of the sky have nests, but the Son of Man has no place to lay his head.”"
+      }
+    },
+    {
+      "similarity": 0.9924171566963196,
+      "verse_a": {
+        "ref": "Matthew 4:10",
+        "text": "Then Jesus said to him,\n“Get behind me,\nSatan! For it is written, ‘You shall worship the Lord your God, and you shall serve him only.’”"
+      },
+      "verse_b": {
+        "ref": "Luke 4:8",
+        "text": "Jesus answered him,\n“Get behind me Satan! For it is written, ‘You shall worship the Lord your God, and you shall serve him only.’”"
+      }
+    },
+    {
+      "similarity": 0.9903405904769897,
+      "verse_a": {
+        "ref": "Matthew 8:9",
+        "text": "For I am also a man under authority, having under myself soldiers. I tell this one, ‘Go,’ and he goes; and tell another, ‘Come,’ and he comes; and tell my servant, ‘Do this,’ and he does it.”"
+      },
+      "verse_b": {
+        "ref": "Luke 7:8",
+        "text": "For I also am a man placed under authority, having under myself soldiers. I tell this one, ‘Go!’ and he goes; and to another, ‘Come!’ and he comes; and to my servant, ‘Do this,’ and he does it.”"
+      }
+    },
+    {
+      "similarity": 0.990065336227417,
+      "verse_a": {
+        "ref": "Matthew 12:30",
+        "text": "“He who is not with me is against me, and he who doesn’t gather with me, scatters."
+      },
+      "verse_b": {
+        "ref": "Luke 11:23",
+        "text": "“He that is not with me is against me. He who doesn’t gather with me scatters."
+      }
+    },
+    {
+      "similarity": 0.9900292158126831,
+      "verse_a": {
+        "ref": "Matthew 22:45",
+        "text": "“If then David calls him Lord, how is he his son?”"
+      },
+      "verse_b": {
+        "ref": "Luke 20:44",
+        "text": "“David therefore calls him Lord, so how is he his son?”"
+      }
+    },
+    {
+      "similarity": 0.9898436069488525,
+      "verse_a": {
+        "ref": "Matthew 3:10",
+        "text": "“Even now the ax lies at the root of the trees. Therefore every tree that doesn’t produce good fruit is cut down, and cast into the fire."
+      },
+      "verse_b": {
+        "ref": "Luke 3:9",
+        "text": "Even now the ax also lies at the root of the trees. Every tree therefore that doesn’t produce good fruit is cut down, and thrown into the fire.”"
+      }
+    },
+    {
+      "similarity": 0.9889254570007324,
+      "verse_a": {
+        "ref": "Matthew 12:42",
+        "text": "The queen of the south will rise up in the judgment with this generation, and will condemn it, for she came from the ends of the earth to hear the wisdom of Solomon; and behold, someone greater than Solomon is here."
+      },
+      "verse_b": {
+        "ref": "Luke 11:31",
+        "text": "The Queen of the South will rise up in the judgment with the men of this generation, and will condemn them: for she came from the ends of the earth to hear the wisdom of Solomon; and behold, one greater than Solomon is here."
+      }
+    },
+    {
+      "similarity": 0.9871355891227722,
+      "verse_a": {
+        "ref": "Matthew 12:27",
+        "text": "If I by Beelzebul cast out demons, by whom do your children cast them out? Therefore they will be your judges."
+      },
+      "verse_b": {
+        "ref": "Luke 11:19",
+        "text": "But if I cast out demons by Beelzebul, by whom do your children cast them out? Therefore will they be your judges."
+      }
+    },
+    {
+      "similarity": 0.987045168876648,
+      "verse_a": {
+        "ref": "Matthew 24:46",
+        "text": "Blessed is that servant whom his lord finds doing so when he comes."
+      },
+      "verse_b": {
+        "ref": "Luke 12:43",
+        "text": "Blessed is that servant whom his lord will find doing so when he comes."
+      }
+    },
+    {
+      "similarity": 0.9836630821228027,
+      "verse_a": {
+        "ref": "Matthew 24:34",
+        "text": "Most certainly I tell you, this generation\nwill not pass away, until all these things are accomplished."
+      },
+      "verse_b": {
+        "ref": "Luke 21:32",
+        "text": "Most certainly I tell you, this generation will not pass away until all things are accomplished."
+      }
+    },
+    {
+      "similarity": 0.9820655584335327,
+      "verse_a": {
+        "ref": "Matthew 14:20",
+        "text": "They all ate, and were filled. They took up twelve baskets full of that which remained left over from the broken pieces."
+      },
+      "verse_b": {
+        "ref": "Luke 9:17",
+        "text": "They ate, and were all filled. They gathered up twelve baskets of broken pieces that were left over."
+      }
+    },
+    {
+      "similarity": 0.9811591506004333,
+      "verse_a": {
+        "ref": "Matthew 5:26",
+        "text": "Most certainly I tell you, you shall by no means get out of there, until you have paid the last penny."
+      },
+      "verse_b": {
+        "ref": "Luke 12:59",
+        "text": "I tell you, you will by no means get out of there, until you have paid the very last penny.”"
+      }
+    },
+    {
+      "similarity": 0.9810924530029297,
+      "verse_a": {
+        "ref": "Matthew 24:47",
+        "text": "Most certainly I tell you that he will set him over all that he has."
+      },
+      "verse_b": {
+        "ref": "Luke 12:44",
+        "text": "Truly I tell you, that he will set him over all that he has."
+      }
+    },
+    {
+      "similarity": 0.9809340238571167,
+      "verse_a": {
+        "ref": "Matthew 24:35",
+        "text": "Heaven and earth will pass away, but my words will not pass away."
+      },
+      "verse_b": {
+        "ref": "Luke 21:33",
+        "text": "Heaven and earth will pass away, but my words will by no means pass away."
+      }
+    }
+  ],
+  "Mark_vs_Luke": [
+    {
+      "similarity": 0.9996770620346069,
+      "verse_a": {
+        "ref": "Mark 15:2",
+        "text": "Pilate asked him, “Are you the King of the Jews?”\nHe answered,\n“So you say.”"
+      },
+      "verse_b": {
+        "ref": "Luke 23:3",
+        "text": "Pilate asked him, “Are you the King of the Jews?”\nHe answered him,\n“So you say.”"
+      }
+    },
+    {
+      "similarity": 0.9961042404174805,
+      "verse_a": {
+        "ref": "Mark 11:31",
+        "text": "They reasoned with themselves, saying, “If we should say, ‘From heaven;’ he will say, ‘Why then did you not believe him?’"
+      },
+      "verse_b": {
+        "ref": "Luke 20:5",
+        "text": "They reasoned with themselves, saying, “If we say, ‘From heaven,’ he will say, ‘Why didn’t you believe him?’"
+      }
+    },
+    {
+      "similarity": 0.9956785440444946,
+      "verse_a": {
+        "ref": "Mark 10:18",
+        "text": "Jesus said to him,\n“Why do you call me good? No one is good except one—God."
+      },
+      "verse_b": {
+        "ref": "Luke 18:19",
+        "text": "Jesus asked him,\n“Why do you call me good? No one is good, except one—God."
+      }
+    },
+    {
+      "similarity": 0.9952850937843323,
+      "verse_a": {
+        "ref": "Mark 10:15",
+        "text": "Most certainly I tell you, whoever will not receive God’s Kingdom like a little child, he will in no way enter into it.”"
+      },
+      "verse_b": {
+        "ref": "Luke 18:17",
+        "text": "Most certainly, I tell you, whoever doesn’t receive God’s Kingdom like a little child, he will in no way enter into it.”"
+      }
+    },
+    {
+      "similarity": 0.994251012802124,
+      "verse_a": {
+        "ref": "Mark 10:19",
+        "text": "You know the commandments: ‘Do not murder,’ ‘Do not commit adultery,’ ‘Do not steal,’ ‘Do not give false testimony,’ ‘Do not defraud,’ ‘Honor your father and mother.’”"
+      },
+      "verse_b": {
+        "ref": "Luke 18:20",
+        "text": "You know the commandments: ‘Don’t commit adultery,’ ‘Don’t murder,’ ‘Don’t steal,’ ‘Don’t give false testimony,’ ‘Honor your father and your mother.’”"
+      }
+    },
+    {
+      "similarity": 0.9898837804794312,
+      "verse_a": {
+        "ref": "Mark 12:40",
+        "text": "those who devour widows’ houses, and for a pretense make long prayers. These will receive greater condemnation.”"
+      },
+      "verse_b": {
+        "ref": "Luke 20:47",
+        "text": "who devour widows’ houses, and for a pretense make long prayers: these will receive greater condemnation.”"
+      }
+    },
+    {
+      "similarity": 0.9891605377197266,
+      "verse_a": {
+        "ref": "Mark 13:26",
+        "text": "Then they will see the Son of Man coming in clouds with great power and glory."
+      },
+      "verse_b": {
+        "ref": "Luke 21:27",
+        "text": "Then they will see the Son of Man coming in a cloud with power and great glory."
+      }
+    },
+    {
+      "similarity": 0.9883551597595215,
+      "verse_a": {
+        "ref": "Mark 10:25",
+        "text": "It is easier for a camel to go through a needle’s eye than for a rich man to enter into God’s Kingdom.”"
+      },
+      "verse_b": {
+        "ref": "Luke 18:25",
+        "text": "For it is easier for a camel to enter in through a needle’s eye, than for a rich man to enter into God’s Kingdom.”"
+      }
+    },
+    {
+      "similarity": 0.9875110387802124,
+      "verse_a": {
+        "ref": "Mark 8:29",
+        "text": "He said to them,\n“But who do you say that I am?”\nPeter answered, “You are the Christ.”"
+      },
+      "verse_b": {
+        "ref": "Luke 9:20",
+        "text": "He said to them,\n“But who do you say that I am?”\nPeter answered, “The Christ of God.”"
+      }
+    },
+    {
+      "similarity": 0.9872274398803711,
+      "verse_a": {
+        "ref": "Mark 2:20",
+        "text": "But the days will come when the bridegroom will be taken away from them, and then will they fast in that day."
+      },
+      "verse_b": {
+        "ref": "Luke 5:35",
+        "text": "But the days will come when the bridegroom will be taken away from them. Then they will fast in those days.”"
+      }
+    },
+    {
+      "similarity": 0.9838302135467529,
+      "verse_a": {
+        "ref": "Mark 11:30",
+        "text": "The baptism of John—was it from heaven, or from men? Answer me.”"
+      },
+      "verse_b": {
+        "ref": "Luke 20:4",
+        "text": "the baptism of John, was it from heaven, or from men?”"
+      }
+    },
+    {
+      "similarity": 0.9809340238571167,
+      "verse_a": {
+        "ref": "Mark 13:31",
+        "text": "Heaven and earth will pass away, but my words will not pass away."
+      },
+      "verse_b": {
+        "ref": "Luke 21:33",
+        "text": "Heaven and earth will pass away, but my words will by no means pass away."
+      }
+    },
+    {
+      "similarity": 0.9808465242385864,
+      "verse_a": {
+        "ref": "Mark 12:23",
+        "text": "In the resurrection, when they rise, whose wife will she be of them? For the seven had her as a wife.”"
+      },
+      "verse_b": {
+        "ref": "Luke 20:33",
+        "text": "Therefore in the resurrection whose wife of them will she be? For the seven had her as a wife.”"
+      }
+    },
+    {
+      "similarity": 0.9800969362258911,
+      "verse_a": {
+        "ref": "Mark 15:33",
+        "text": "When the sixth hour\n had come, there was darkness over the whole land until the ninth hour."
+      },
+      "verse_b": {
+        "ref": "Luke 23:44",
+        "text": "It was now about the sixth hour, and darkness came over the whole land until the ninth hour."
+      }
+    },
+    {
+      "similarity": 0.9784935712814331,
+      "verse_a": {
+        "ref": "Mark 12:20",
+        "text": "There were seven brothers. The first took a wife, and dying left no offspring."
+      },
+      "verse_b": {
+        "ref": "Luke 20:29",
+        "text": "There were therefore seven brothers. The first took a wife, and died childless."
+      }
+    },
+    {
+      "similarity": 0.9736392498016357,
+      "verse_a": {
+        "ref": "Mark 10:48",
+        "text": "Many rebuked him, that he should be quiet, but he cried out much more, “You son of David, have mercy on me!”"
+      },
+      "verse_b": {
+        "ref": "Luke 18:39",
+        "text": "Those who led the way rebuked him, that he should be quiet; but he cried out all the more, “You son of David, have mercy on me!”"
+      }
+    },
+    {
+      "similarity": 0.9686270952224731,
+      "verse_a": {
+        "ref": "Mark 10:31",
+        "text": "But many who are first will be last; and the last first.”"
+      },
+      "verse_b": {
+        "ref": "Luke 13:30",
+        "text": "Behold, there are some who are last who will be first, and there are some who are first who will be last.”"
+      }
+    },
+    {
+      "similarity": 0.9677209258079529,
+      "verse_a": {
+        "ref": "Mark 12:19",
+        "text": "“Teacher, Moses wrote to us, ‘If a man’s brother dies, and leaves a wife behind him, and leaves no children, that his brother should take his wife, and raise up offspring for his brother.’"
+      },
+      "verse_b": {
+        "ref": "Luke 20:28",
+        "text": "They asked him, “Teacher, Moses wrote to us that if a man’s brother dies having a wife, and he is childless, his brother should take the wife, and raise up children for his brother."
+      }
+    },
+    {
+      "similarity": 0.9653511047363281,
+      "verse_a": {
+        "ref": "Mark 8:38",
+        "text": "For whoever will be ashamed of me and of my words in this adulterous and sinful generation, the Son of Man also will be ashamed of him, when he comes in his Father’s glory, with the holy angels.”"
+      },
+      "verse_b": {
+        "ref": "Luke 9:26",
+        "text": "For whoever will be ashamed of me and of my words, of him will the Son of Man be ashamed, when he comes in his glory, and the glory of the Father, and of the holy angels."
+      }
+    },
+    {
+      "similarity": 0.963988184928894,
+      "verse_a": {
+        "ref": "Mark 8:35",
+        "text": "For whoever wants to save his life will lose it; and whoever will lose his life for my sake and the sake of the Good News will save it."
+      },
+      "verse_b": {
+        "ref": "Luke 9:24",
+        "text": "For whoever desires to save his life will lose it, but whoever will lose his life for my sake, the same will save it."
+      }
+    }
+  ]
+}

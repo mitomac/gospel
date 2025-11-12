@@ -1,0 +1,35 @@
+[
+  {
+    "book_pair": "Matthew vs Mark",
+    "num_verses_a": 1071,
+    "num_verses_b": 678,
+    "mean_similarity": 0.31837740540504456,
+    "max_similarity": 1.0000001192092896,
+    "min_similarity": -0.1580207645893097,
+    "high_similarity_pairs": 333,
+    "medium_similarity_pairs": 58977,
+    "low_similarity_pairs": 666828
+  },
+  {
+    "book_pair": "Matthew vs Luke",
+    "num_verses_a": 1071,
+    "num_verses_b": 1151,
+    "mean_similarity": 0.3217005133628845,
+    "max_similarity": 0.9999997615814209,
+    "min_similarity": -0.16647517681121826,
+    "high_similarity_pairs": 293,
+    "medium_similarity_pairs": 102904,
+    "low_similarity_pairs": 1129524
+  },
+  {
+    "book_pair": "Mark vs Luke",
+    "num_verses_a": 678,
+    "num_verses_b": 1151,
+    "mean_similarity": 0.32134804129600525,
+    "max_similarity": 0.9996770620346069,
+    "min_similarity": -0.16519120335578918,
+    "high_similarity_pairs": 213,
+    "medium_similarity_pairs": 63409,
+    "low_similarity_pairs": 716756
+  }
+]
